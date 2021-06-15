@@ -23,7 +23,6 @@ Which food you want to eat, it will check if you have it in your inventory and r
 
 ---
 IMPORTANT NOTES:
-• The SPELL will be cast ONLY if you got more than half mana, not configurable at X manapoints.
+- The SPELL will be cast ONLY if you got more than half mana, not configurable at X manapoints.
 
-• If "needs blank rune" is checked, the selected hand always must be EMPTY.
----
+- If "needs blank rune" is checked, the selected hand always must be EMPTY.
