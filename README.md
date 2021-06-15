@@ -3,7 +3,7 @@
 
 The NST are developed to enhance your mana training in a convenient way, helping you not missing any single mana point.
 
-Completely built with [Python](https://www.python.org/) and using image recognition and mouse/keyboard inputs, it's not detectable unless a GM catches you.
+Completely built with [Python](https://www.python.org/) and using image recognition and mouse/keyboard inputs, it's not detectable unless a GM catches you in-situ.
 
 
 # HOW TO USE ⚙️
