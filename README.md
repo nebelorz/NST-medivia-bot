@@ -1,7 +1,8 @@
 # NST 📌
-_Welcome to the Nebel's Slacking Tools (NST) readme, I encourage you to read it before getting in with the software (I'll keep it short, I promise :)).
+*Welcome to the Nebel's Slacking Tools (NST) readme, I encourage you to read it before getting in with the software, I'll keep it short, I promise :)*
 
 The NST are developed to enhance your mana training in a convenient way, helping you not missing any single mana point.
+
 Completely built with [Python](https://www.python.org/) and using image recognition and mouse/keyboard inputs, it's not detectable unless a GM catches you.
 
 
@@ -23,5 +24,6 @@ Which food you want to eat, it will check if you have it in your inventory and r
 ---
 IMPORTANT NOTES:
 • The SPELL will be cast ONLY if you got more than half mana, not configurable at X manapoints.
+
 • If "needs blank rune" is checked, the selected hand always must be EMPTY.
 ---
