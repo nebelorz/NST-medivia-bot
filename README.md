@@ -2,12 +2,8 @@
 _Welcome to the Nebel's Slacking Tools (NST) readme, I encourage you to read it before getting in with the software (I'll keep it short, I promise :)).
 
 The NST are developed to enhance your mana training in a convenient way, helping you not missing any single mana point.
-Completely using image recognition and mouse/keyboard inputs, it's not detectable unless a GM catches you.
+Completely built with [Python](https://www.python.org/) and using image recognition and mouse/keyboard inputs, it's not detectable unless a GM catches you.
 
-## Built with 🛠️
-
-_This project is entirely developed with Python_
-* [Python] (https://www.python.org/)
 
 # HOW TO USE ⚙️
 ### 1- SPELL
