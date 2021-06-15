@@ -26,3 +26,5 @@ Which food you want to eat, it will check if you have it in your inventory and r
 > The SPELL will be cast _**ONLY if you got more than half mana, not configurable**_ at X manapoints.
 
 > If "needs blank rune" is checked, the _**selected hand always must be EMPTY**_.
+
+> Hams are only detected if it's a stack of 5 or more hams.
