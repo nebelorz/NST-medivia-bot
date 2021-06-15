@@ -1,13 +1,11 @@
-# NST
-- DESCRIPTION -
-Welcome to the Nebel's Slacking Tools (NST) readme, I encourage you to read it before getting in with the software (I'll keep it short, I promise :)).
+# NST 📌
+_Welcome to the Nebel's Slacking Tools (NST) readme, I encourage you to read it before getting in with the software (I'll keep it short, I promise :)).
 
 The NST are developed to enhance your mana training in a convenient way, helping you not missing any single mana point.
 Completely using image recognition and mouse/keyboard inputs, it's not detectable unless a GM catches you.
 
-# HOW TO USE #
-
-1- SPELL
+# HOW TO USE # ⚙️
+_1- SPELL
 The spell box is your input spell to the game, it will be casted always in the default channel.
 The "needs blank rune" checkbox will check for blank runes at your inventory, if none found, an error pops.
 
