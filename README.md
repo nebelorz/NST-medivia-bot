@@ -5,6 +5,8 @@ The NST are developed to enhance your mana training in a convenient way, helping
 
 Completely built with [Python](https://www.python.org/) and using image recognition and mouse/keyboard inputs, it's not detectable unless a GM catches you in-situ.
 
+# INSTRUCTIONS 📋
+Download as ZIP, extract all the files in the same folder and execute "NST <version>.exe".
 
 # HOW TO USE ⚙️
 ### 1- SPELL
