@@ -22,7 +22,7 @@ by default 300 seconds (5 minutes).
 Which food you want to eat, it will check if you have it in your inventory and right-click 4 times on it. if none found, an error pops.
 
 ---
-🔴 [IMPORTANT NOTES] 🔴
+###🔴 [IMPORTANT NOTES] 🔴
 - The SPELL will be cast ONLY if you got more than half mana, not configurable at X manapoints.
 
 - If "needs blank rune" is checked, the selected hand always must be EMPTY.
