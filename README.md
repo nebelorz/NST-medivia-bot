@@ -26,12 +26,18 @@ Which food you want to eat, it will check if you have it in your inventory and r
 
 ---
 ### IMPORTANT NOTES 🔴
->[SPELL] will be cast ONLY if you got more than half mana, not configurable at X manapoints.
+>[SPELL]
  
-[SPELL] will be casted many times until you get less than half mana. Example: 300/300 mana, you will cast the spell until 150/300 or less, then will wait the CHECK time.
+will be cast ONLY if you got more than half mana, not configurable at X manapoints.
+
+will be casted many times until you get less than half mana. Example: 300/300 mana, you will cast the spell until 150/300 or less, then will wait the CHECK time.
  
-[SPELL] when "needs blank rune" is checked, the selected hand always must be EMPTY.
+when "needs blank rune" is checked, the selected hand always must be EMPTY.
 
->[CHECK] when "minimize" is checked, the game will be minimized when the CHECK is finished.
+>[CHECK]
 
->[FOOD] Hams are only detected if it's a stack of 5 or more hams.
+ when "minimize" is checked, the game will be minimized when the CHECK is finished.
+
+>[FOOD]
+ 
+Hams are only detected if it's a stack of 5 or more hams.
