@@ -36,8 +36,8 @@ when "needs blank rune" is checked, the selected hand always must be EMPTY.
 
 >[CHECK]
 
- when "minimize" is checked, the game will be minimized when the CHECK is finished.
+ when "minimize" is checked, the game will be minimized after the check.
 
 >[FOOD]
  
-Hams are only detected if it's a stack of 5 or more hams.
+Hams are only detected if it's a stack of 5 or more.
