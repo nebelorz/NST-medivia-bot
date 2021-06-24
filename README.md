@@ -10,7 +10,7 @@ _Download ZIP, extract all the files in the same folder and execute "NST version
 
 In some cases, people reported Windows Defender gives a ***false positive*** containing a virus (v1.2).
 
-***I cannot do nothing about it, so you must ***add NST to the exceptions or disable Windows Defender***
+I cannot do nothing about it, so you must ***add NST to the exceptions or disable Windows Defender***
  
 
 # HOW TO USE ⚙️
