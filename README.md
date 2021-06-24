@@ -10,24 +10,27 @@ _Download ZIP, extract all the files in the same folder and execute "NST version
  
 
 # HOW TO USE ⚙️
-> Hotkeys
+>### HOTKEYS
 - To start NST you can press 'Home' or the start button.
 
 - To stop NST you can press 'End' or the stop button.
 
-### 1- SPELL
+>### 1- SPELL
 The spell box is your input spell to the game, it will be casted always in the default channel.
 The "needs blank rune" checkbox will check for blank runes at your inventory, if none found, an error pops.
 
-### 2- HAND
+>### 2- HAND
 Basically in which hand you want to get the blank rune, by default left, if it's not empty, an error pops.
 
-### 3- CHECK
+>### 3- CHECK
 The check entry is the time in which it will check again if you have enough mana and resources to repeat the process, always must be numbers and the time in seconds,
 by default 300 seconds (5 minutes). Minimize checkbox to minimize when the checking is done.
 
-### 4- FOOD
-Which food you want to eat, it will check if you have it in your inventory and right-click 4 times on it. if none found, an error pops.
+>### 4- FOOD
+Select which food you want to eat, it will check if you have it in your inventory and right-click 4 times on it. if none found, an error pops.
+
+>### 5- BOOST
+Selected item will be refilled/used every time the check occurs
 
 ---
 ### IMPORTANT NOTES 🔴
