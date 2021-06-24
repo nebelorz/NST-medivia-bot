@@ -10,6 +10,9 @@ _Download ZIP, extract all the files in the same folder and execute "NST version
  
 
 # HOW TO USE ⚙️
+To start NST you can press 'Home' or the start button.
+To stop NST you can press 'End' or the stop button.
+
 ### 1- SPELL
 The spell box is your input spell to the game, it will be casted always in the default channel.
 The "needs blank rune" checkbox will check for blank runes at your inventory, if none found, an error pops.
@@ -40,4 +43,5 @@ when "needs blank rune" is checked, the selected hand always must be EMPTY.
 
 >[FOOD]
  
-Hams are only detected if it's a stack of 5 or more.
+Hams are only detected if it's a stack of 5 or more items.
+Meats are only detected if it's a stack of 10 or more items.
