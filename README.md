@@ -33,7 +33,7 @@ Select which food you want to eat, it will check if you have it in your inventor
 Selected item will be refilled/used every time the check occurs
 
 ---
-### 🔴 IMPORTANT NOTES 🔴
+# IMPORTANT NOTES 🟥
 >[SPELL]
  
 will be cast ONLY if you got more than half mana, not configurable at X manapoints.
