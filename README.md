@@ -8,7 +8,7 @@ Completely built with [Python](https://www.python.org/) and using image recognit
 # INSTRUCTIONS 📋
 _Download ZIP, extract all the files in the same folder and execute "NST version.exe"._
 
-*_In some cases, people reported Windows Defender gives a false positive containing a virus, I cannot do nothing about it, so you must add NST to the exceptions or disable WD_*
+***In some cases, people reported Windows Defender gives a false positive containing a virus (v1.2), I cannot do nothing about it, so you must add NST to the exceptions or disable WD***
  
 
 # HOW TO USE ⚙️
