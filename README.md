@@ -38,19 +38,21 @@ Selected item will be refilled/used every time the check occurs
 ---
 
 # IMPORTANT NOTES 🟥
->[SPELL]
+>*SPELL
  
 will be cast ONLY if you got more than half mana, not configurable at X manapoints.
 
-will be casted many times until you get less than half mana. Example: 300/300 mana, you will cast the spell until 150/300 or less, then will wait the CHECK time.
+will be casted many times until you get less than half mana.
+
+*Example: 300/300 mana, you will cast the spell until 150/300 or less, then will wait the CHECK time.*
  
 when "needs blank rune" is checked, the selected hand always must be EMPTY.
 
->[CHECK]
+>*CHECK
 
  when "minimize" is checked, the game will be minimized after the check.
 
->[FOOD]
+>*FOOD
  
 Hams are only detected if it's a stack of 5 or more items.
 Meats are only detected if it's a stack of 10 or more items.
