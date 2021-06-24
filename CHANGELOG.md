@@ -8,7 +8,7 @@
 
 > Functions
 - Added "BOOST" function, which lets you add an item to increase mana regen
-- Added to FOOD the item 'Meat'
+- [FOOD] Added the item 'meat'
 
 ## *NST v1.1*
 > General
