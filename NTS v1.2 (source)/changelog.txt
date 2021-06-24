@@ -1,9 +1,0 @@
-> General
-- Added hotkey "Home" to start the bot
-- Added hotkey "End" to stop the bot
-
-> GUI
-- General looks of the GUI revamped
-
-> Functions
-- Added "BOOST" function, which lets you add an item to increase mana regen (life ring for the moment)
