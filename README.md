@@ -10,10 +10,9 @@ _Download ZIP, extract all the files in the same folder and execute "NST version
  
 
 # HOW TO USE ⚙️
->#### HOTKEYS ⏯
-- To start NST you can press 'Home' or the start button.
-
-- To stop NST you can press 'End' or the stop button.
+>#### *HOTKEYS* ⏯
+To start NST you can press 'Home' or the start button.
+To stop NST you can press 'End' or the stop button.
 
 >#### *SPELL* 🎆
 The spell box is your input spell to the game, it will be casted always in the default channel.
