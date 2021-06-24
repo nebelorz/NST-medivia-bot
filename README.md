@@ -11,6 +11,7 @@ _Download ZIP, extract all the files in the same folder and execute "NST version
 
 # HOW TO USE ⚙️
 To start NST you can press 'Home' or the start button.
+
 To stop NST you can press 'End' or the stop button.
 
 ### 1- SPELL
