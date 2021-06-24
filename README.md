@@ -32,6 +32,7 @@ Select which food you want to eat, it will check if you have it in your inventor
 
 >#### *BOOST* 💎
 Selected item will be refilled/used every time the check occurs
+
 ---
 
 # IMPORTANT NOTES 🟥
