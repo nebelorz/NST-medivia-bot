@@ -46,6 +46,10 @@ Selected item will be refilled/used every time the check occurs
 ---
 
 # IMPORTANT NOTES 🟥
+>#### *GENERAL*
+
+NST will pop-up any program that starts with the word "Medivia", so be aware not leave any other program with this name (such as Google Chrome while visiting mediviawiki etc.)
+
 >#### *SPELL*
  
 will be cast ONLY if you got more than half mana, not configurable at X manapoints.
