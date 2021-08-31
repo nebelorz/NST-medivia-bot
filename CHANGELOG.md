@@ -1,3 +1,12 @@
+## *NST v1.3*
+> General
+- Removed hotkey function to start/stop the bot (to be added)
+- Stop button now closes the bot completely
+- Fixed general bugs
+
+> BOOST FUNCTION
+- Now doesn't stops the bot if there's no boost item left
+
 ## *NST v1.2*
 > General
 - Added hotkey "Home" to start the bot
