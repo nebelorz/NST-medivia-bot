@@ -14,13 +14,6 @@ I cannot do nothing about it, so you must ***add NST to the exceptions or disabl
  
 
 # HOW TO USE ⚙️
-~~>#### *HOTKEYS* ⏯
-To start NST you can press 'Home' or the start button.
-
-~~To stop NST you can press 'End' or the stop button.
-
----
-
 >#### *SPELL* 🎆
 The spell box is your input spell to the game, it will be casted always in the default channel.
 
