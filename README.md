@@ -1,64 +1,53 @@
-# NST 📌
-*Welcome to Nebel's Slacking Tools (NST), I encourage you to take a look at the readme before getting in with the software, I'll keep it short, I promise :)*
+# NST Medivia BOT
+NST is a bot for Medivia which will take care of raising your magic level and/or making runes while making sure your character is fed and using items to boost mana if necessary.
+Also, if selected, your character will be logged out after supplies run out.
 
-The NST are developed to enhance your mana training in a convenient way, helping you not missing any single mana point.
+## Table of Contents
 
-Completely built with [Python](https://www.python.org/) and using image recognition and mouse/keyboard inputs, it's not detectable unless a GM catches you in-situ.
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Important Notes](#important-notes)
+- [Contributions](#contributions)
 
-# INSTRUCTIONS 📋
-_Download ZIP, extract all the files in the same folder and execute "NST version.exe"._
 
-In some cases, people reported Windows Defender gives a ***false positive*** containing a virus (v1.2).
+## Getting Started
 
-I cannot do nothing about it, so you must ***add NST to the exceptions or disable Windows Defender***
+- Head to [Releases](https://github.com/nebelorz/NST-medivia-bot/releases) and download the latest release.
+- **EXTRACT** the .zip you downloaded (if not, your AV could give you a false positive) 
+- Open the .exe file
+
+### Usage
+
+When you open NST you'll find exactly this screen:
+
+![bot](https://user-images.githubusercontent.com/65920053/236314912-a060326d-012e-4485-be52-543637edd734.png)
+
+
+To quickly setup the BOT follow these instructions, filling from top to bottom:
+
+You should input the spell to cast, in addition you should check the "needs blank rune" if the spell requires a blank rune to be casted (e.g. "encurso").
+
+Select a food from the list (hams, fish or brown mushrooms are available).
+
+Optionally select a boost item.
+
+The BOT will focus Medivia client every "X" minutes, so, if you want to check if you can cast the spell every minute, you should input "1".
+
+Minimize checkbox if you want to minimize the client after the BOT casts the spell.
+
+Logout if no supplies if you want your character to logout if there're no blank runes/food/boost item if selected.
+
+
+## Important Notes
+- NST will pop-up any program that starts with the word "Medivia", so be aware not leave any other program with this name (such as Google Chrome while visiting mediviawiki etc.)
  
+- The spell will be cast ONLY if you got more than half mana, not configurable at X manapoints and will be casted until you get less than half mana (*e.g. if your character has 300/300 mana, it will cast the spell until 150/300, then will eat food, use boost item and wait the time).*
 
-# HOW TO USE ⚙️
->#### *SPELL* 🎆
-The spell box is your input spell to the game, it will be casted always in the default channel.
+- Food items as "Hams" will only be detected when the image matches the maximum amount of the stack (*e.g. hams only will be detected if the stack consists of 5 hams or more).*
 
-The "needs blank rune" checkbox will check for blank runes at your inventory, if none found, an error pops.
+- When "minimize" is checked, the game will be minimized until the next time check. It's useful if you're using your PC to watch a movie/youtube etc.
 
+- When "logout if no supplies" is checked, the game will logout your character if there're no left supplies (blank runes/food/boost item if selected) using the "force" option.
 
->#### *HAND* 🖐
-Basically in which hand you want to get the blank rune, by default left, if it's not empty, an error pops.
-
-
->#### *CHECK* ⏳
-The check entry is the time in which it will check again if you have enough mana and resources to repeat the process, always must be numbers and the time in seconds,
-by default 300 seconds (5 minutes). Minimize checkbox to minimize when the checking is done.
-
-
->#### *FOOD* 🥓
-Select which food you want to eat, it will check if you have it in your inventory and right-click 4 times on it. If none found, an error pops.
-
-
->#### *BOOST* 💎
-Selected item will be refilled/used every time the check occurs
-
----
-
-# IMPORTANT NOTES 🟥
->#### *GENERAL*
-
-NST will pop-up any program that starts with the word "Medivia", so be aware not leave any other program with this name (such as Google Chrome while visiting mediviawiki etc.)
-
->#### *SPELL*
- 
-will be cast ONLY if you got more than half mana, not configurable at X manapoints.
-
-will be casted many times until you get less than half mana.
-
-*Example: 300/300 mana, you will cast the spell until 150/300 or less, then will wait the CHECK time.*
- 
-when "needs blank rune" is checked, the selected hand always must be EMPTY.
-
->#### *CHECK*
-
- when "minimize" is checked, the game will be minimized after the check.
-
->#### *FOOD*
- 
-Hams are only detected if it's a stack of 5 or more items.
-
-Meats are only detected if it's a stack of 10 or more items.
+### Contributions
+If you would like to contribute to the project, feel free to open a PR/Issue or request a feature by PM on youtube or e-mail.
