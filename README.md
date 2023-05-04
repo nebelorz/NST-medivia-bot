@@ -6,7 +6,7 @@ Also, if selected, your character will be logged out after supplies run out.
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Important Notes](#important-notes)❗
+- ❗[Important Notes](#important-notes)
 - [Contributions](#contributions)
 
 
@@ -38,7 +38,7 @@ Minimize checkbox if you want to minimize the client after the BOT casts the spe
 Logout if no supplies if you want your character to logout if there're no blank runes/food/boost item if selected.
 
 
-### Important Notes
+### ❗Important Notes
 - NST will pop-up any program that starts with the word "Medivia", so be aware not leave any other program with this name (such as Google Chrome while visiting mediviawiki etc.)
  
 - The spell will be cast ONLY if you got more than half mana, not configurable at X manapoints and will be casted until you get less than half mana (*e.g. if your character has 300/300 mana, it will cast the spell until 150/300, then will eat food, use boost item and wait the time).*
