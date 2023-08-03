@@ -122,7 +122,7 @@ def start_button():
                 messagebox.showwarning('WARNING!', 'Boost item not found.')
                 break
 
-            while image_exists('midmana'):
+            while not image_exists('not_enough_mana'):
                 if blank_rune_entry() and not image_exists('blankrune'):
                     break
                 cast_spell(spell_entry())
