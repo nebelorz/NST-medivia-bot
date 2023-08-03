@@ -15,7 +15,7 @@ from functions import *
 main_window = ThemedTk(theme='plastik')
 main_window.title('[NST v1.4.1]')
 main_window.iconbitmap('images/icon.ico')
-main_window.geometry('300x385')
+main_window.geometry('300x415')
 main_window.attributes('-topmost', True)
 
 # Styling (ttk)
@@ -169,7 +169,7 @@ blank_rune_checkbox.grid(column=0, row=3, sticky='nw', padx=5, pady=5)
 
 # Separator
 separator1 = ttk.Separator(main_window, orient=tk.HORIZONTAL)
-separator1.grid(column=0, row=4, columnspan=3, sticky='ew', pady=5)
+separator1.grid(column=0, row=4, ipadx=140, padx=5, pady=10, sticky="w")
 
 # FOOD SELECT
 food_label = ttk.Label(main_window, text="FOOD")
@@ -183,7 +183,7 @@ food_cb.grid(column=0, row=6, sticky='nw', padx=2)
 
 # Separator
 separator1 = ttk.Separator(main_window, orient=tk.HORIZONTAL)
-separator1.grid(column=0, row=7, columnspan=3, sticky='ew', pady=5)
+separator1.grid(column=0, row=7, ipadx=140, padx=5, pady=10, sticky="w")
 
 
 # BOOST SELECT
@@ -198,7 +198,7 @@ boost_cb.grid(column=0, row=9, sticky='nw', padx=2)
 
 # Separator
 separator2 = ttk.Separator(main_window, orient=tk.HORIZONTAL)
-separator2.grid(column=0, row=10, columnspan=3, sticky='ew', pady=5)
+separator2.grid(column=0, row=10, ipadx=140, padx=5, pady=10, sticky="w")
 
 # SETTINGS
 settings_label = ttk.Label(main_window, text="SETTINGS")
@@ -233,7 +233,7 @@ logout_check.grid(column=0, row=14, sticky='nw', padx=2)
 
 # Separator
 separator3 = ttk.Separator(main_window, orient=tk.HORIZONTAL)
-separator3.grid(column=0, row=15, columnspan=3, sticky='ew', pady=8)
+separator3.grid(column=0, row=15, ipadx=140, padx=5, pady=10, sticky="w")
 
 # START BUTTON
 start_btn = ttk.Button(main_window,
