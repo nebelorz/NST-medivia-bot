@@ -13,10 +13,9 @@ from functions import *
 
 # Main window
 main_window = ThemedTk(theme='plastik')
-main_window.title('[NST v1.4]')
+main_window.title('[NST v1.4.1]')
 main_window.iconbitmap('images/icon.ico')
-main_window.geometry('230x315')
-main_window.resizable(width=False, height=False)
+main_window.geometry('300x385')
 main_window.attributes('-topmost', True)
 
 # Styling (ttk)
@@ -36,8 +35,6 @@ main_window.style.configure('start.TButton', font=('Verdana', 8, 'bold'))
 main_window.style.configure('exit.TButton', font=('Verdana', 8, 'bold'))
 
 # FUNCTIONS
-
-
 def spell_entry():
     if spell_input.get():
         return spell_input.get()
@@ -168,11 +165,11 @@ blank_rune_checkbox = ttk.Checkbutton(main_window,
                                       variable=blank_rune,
                                       onvalue=1,
                                       offvalue=0)
-blank_rune_checkbox.grid(column=0, row=2, sticky='nw', padx=120, pady=5)
+blank_rune_checkbox.grid(column=0, row=3, sticky='nw', padx=5, pady=5)
 
 # Separator
 separator1 = ttk.Separator(main_window, orient=tk.HORIZONTAL)
-separator1.grid(column=0, row=3, columnspan=3, sticky='ew', pady=5)
+separator1.grid(column=0, row=4, columnspan=3, sticky='ew', pady=5)
 
 # FOOD SELECT
 food_label = ttk.Label(main_window, text="FOOD")
@@ -243,7 +240,7 @@ start_btn = ttk.Button(main_window,
                        text="Start",
                        style='start.TButton',
                        command=thread_1)
-start_btn.grid(column=0, row=16, sticky='ne', padx=120)
+start_btn.grid(column=0, row=16, sticky='ne', padx=195)
 
 # EXIT BUTTON
 exit_btn = ttk.Button(main_window,
