@@ -1,7 +1,6 @@
 import pyautogui as pyAG
 import pydirectinput as pyDI
 
-from random import uniform
 from time import sleep
 from get_window import *
 from get_info import *
@@ -15,9 +14,8 @@ def disable_WASD():
 
 def cast_spell(spell):
     disable_WASD()
-    pyAG.hotkey('altright', '3')
-    pyAG.write('s ' + spell)
-    sleep(1)
+    pyAG.write(spell)
+    sleep(0.5)
     pyDI.press('enter')
 
 
