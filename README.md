@@ -1,4 +1,4 @@
-<img src="https://github.com/nebelorz/NST-medivia-bot/assets/65920053/6b2f21cd-6026-45ec-9167-25c174581cda" width="400">
+<img src="https://github.com/nebelorz/NST-medivia-bot/assets/65920053/6b2f21cd-6026-45ec-9167-25c174581cda" align="right" width="400">
 
 
 NST is a bot for Medivia designed to automate mana training and rune creation.
@@ -6,7 +6,7 @@ NST is a bot for Medivia designed to automate mana training and rune creation.
 The program utilizes the client's image recognition, minimizing detection issues related to software anti-bot measures. However, please note that **using the bot may result in a ban if a GM investigates and observes suspicious activity, such as mana refills during play**.
 
 | **Table of Contents**                 |
-| ------------------------------------- |
+| :-----------------------------------: |
 | [Getting Started](#getting-started)   |
 | [Usage](#usage)                       |
 | [Important Notes](#important-notes) ❗ |
@@ -20,7 +20,7 @@ The program utilizes the client's image recognition, minimizing detection issues
 
 ## Usage
 
-<img src="https://github.com/nebelorz/NST-medivia-bot/assets/65920053/4a0924b6-9247-44fb-b25c-45a106e1447a">
+<img src="https://github.com/nebelorz/NST-medivia-bot/assets/65920053/4a0924b6-9247-44fb-b25c-45a106e1447a" align="right">
 
 
 Setting up the NST Medivia BOT is easy. Just follow these steps:
@@ -44,8 +44,8 @@ Setting up the NST Medivia BOT is easy. Just follow these steps:
   - HP/MANA bars
   - Inventory (w/ empty ring slot)
   - Food to use
- 
-    ![medivia-settings-to-show](https://github.com/nebelorz/NST-medivia-bot/assets/65920053/f7d53ce8-606c-4e01-af55-e95adf2e4b56)
+
+    <img src="https://github.com/nebelorz/NST-medivia-bot/assets/65920053/f7d53ce8-606c-4e01-af55-e95adf2e4b56" align="top">
 
 - NST will detect and bring to focus any program with "Medivia" in its name. Ensure no unrelated program shares this name (e.g., Google Chrome while visiting Medivia-related websites).
 
