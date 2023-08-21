@@ -1,4 +1,5 @@
-# NST Medivia BOT
+<img src="https://github.com/nebelorz/NST-medivia-bot/assets/65920053/6b2f21cd-6026-45ec-9167-25c174581cda" width="400">
+
 
 NST is a bot for Medivia designed to automate mana training and rune creation.
 
@@ -19,7 +20,8 @@ The program utilizes the client's image recognition, minimizing detection issues
 
 ## Usage
 
-![NST Medivia BOT](https://github.com/nebelorz/NST-medivia-bot/assets/65920053/4a0924b6-9247-44fb-b25c-45a106e1447a)
+<img src="https://github.com/nebelorz/NST-medivia-bot/assets/65920053/4a0924b6-9247-44fb-b25c-45a106e1447a">
+
 
 Setting up the NST Medivia BOT is easy. Just follow these steps:
 
