@@ -13,7 +13,7 @@ from functions import *
 
 # Main window
 main_window = ThemedTk(theme='plastik')
-main_window.title('[NST v1.4.1]')
+main_window.title('[NST v1.4.1.1]')
 main_window.iconbitmap('images/icon.ico')
 main_window.geometry('300x415')
 main_window.attributes('-topmost', True)
